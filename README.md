@@ -1,8 +1,8 @@
 # SonoSeeder: Autonomous Agro-Technological Robot
-**WRO International 2024 | Future Innovators Category | Izmir, Türkiye**
+**WRO International 2024 | Future Innovators Category | Izmir, Türkiye | 🥈 Silver Medal**
 
 ## Project Overview
-SonoSeeder is a scaled-down proof-of-concept for a multi-functional, solar-powered agro-technological robot that integrates field preparation, precision seeding, irrigation, and ultrasound-assisted physiological seed enhancement into a single autonomous system. It was developed by LGS Defence Team B for the World Robot Olympiad (WRO) International 2024.
+SonoSeeder is a scaled-down proof-of-concept for a multi-functional, solar-powered agro-technological robot that integrates field preparation, precision seeding, irrigation, and ultrasound-assisted physiological seed enhancement into a single autonomous system. It was developed by LGS Defence Team B for the World Robot Olympiad (WRO) International 2024, where it was awarded the **Silver Medal** in the Future Innovators category.
 
 The robot combines a subsurface thermal ploughing module for non-chemical weed elimination via conductive heat transfer, a servo-driven precision seeding mechanism, a mobile irrigation unit, and a custom-built ultrasound chamber experimentally validated to accelerate seed germination and prime antioxidant defense mechanisms. Built on an ESP32 microcontroller with sensor fusion and closed-loop PID-style control, SonoSeeder operates fully autonomously across a defined field area.
 
@@ -44,5 +44,7 @@ No formal license has been applied to this repository yet. All rights reserved t
 **Team Captain:** Hariz Zoran Farooq
 **Team Vice-Captain:** Zoraiz Khalid
 **Team Member:** Ali Ahmed
+**Contact:** harizzoranfarooq@gmail.com
+**Competition:** WRO International 2024, Future Innovators Category, Izmir, Türkiye — **Silver Medal**
 **Contact:** harizzoranfarooq@gmail.com
 **Competition:** WRO International 2024, Future Innovators Category, Izmir, Türkiye
